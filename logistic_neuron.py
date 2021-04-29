@@ -1,6 +1,6 @@
 """
-    The matenathic architecture of the logistic neuron is a logistic function (1/(1+e^(-z))) 
-    that belongs to the sigmoid functions family. This neuron is utulized to do both binary 
+    The matemathic architecture of the logistic neuron is the logistic function (1/(1+e^(-z))) 
+    that belongs to the sigmoid functions family. This neuron is utilized to do both binary 
     clasifications {0,1} (a class) and also for doing probabilities regression [0,1].  
 """
 
